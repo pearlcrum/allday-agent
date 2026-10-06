@@ -1,0 +1,12 @@
+{
+  "name": "allday-agent",
+  "version": "1.0.0",
+  "description": "IBK i-ONE Bank 올데이 에이전트 — AI 금융 비서 데모 목업",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "dev": "npm --prefix backend run dev",
+    "test": "npm --prefix backend test"
+  },
+  "engines": { "node": ">=18" }
+}

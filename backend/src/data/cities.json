@@ -1,0 +1,904 @@
+{
+  "popular": [
+    "도쿄",
+    "오사카",
+    "제주",
+    "방콕",
+    "다낭",
+    "타이페이",
+    "싱가포르",
+    "파리"
+  ],
+  "regions": [
+    {
+      "name": "국내",
+      "cities": [
+        {
+          "city": "제주",
+          "country": "한국",
+          "code": "CJU"
+        },
+        {
+          "city": "부산",
+          "country": "한국",
+          "code": "PUS"
+        },
+        {
+          "city": "여수",
+          "country": "한국",
+          "code": "RSU"
+        },
+        {
+          "city": "광주",
+          "country": "한국",
+          "code": "KWJ"
+        },
+        {
+          "city": "대구",
+          "country": "한국",
+          "code": "TAE"
+        },
+        {
+          "city": "울산",
+          "country": "한국",
+          "code": "USN"
+        },
+        {
+          "city": "포항",
+          "country": "한국",
+          "code": "KPO"
+        },
+        {
+          "city": "사천",
+          "country": "한국",
+          "code": "HIN"
+        },
+        {
+          "city": "청주",
+          "country": "한국",
+          "code": "CJJ"
+        },
+        {
+          "city": "양양",
+          "country": "한국",
+          "code": "YNY"
+        },
+        {
+          "city": "군산",
+          "country": "한국",
+          "code": "KUV"
+        },
+        {
+          "city": "원주",
+          "country": "한국",
+          "code": "WJU"
+        },
+        {
+          "city": "무안",
+          "country": "한국",
+          "code": "MWX"
+        }
+      ]
+    },
+    {
+      "name": "일본",
+      "cities": [
+        {
+          "city": "도쿄",
+          "country": "일본",
+          "code": "NRT·HND"
+        },
+        {
+          "city": "오사카",
+          "country": "일본",
+          "code": "KIX"
+        },
+        {
+          "city": "후쿠오카",
+          "country": "일본",
+          "code": "FUK"
+        },
+        {
+          "city": "삿포로",
+          "country": "일본",
+          "code": "CTS"
+        },
+        {
+          "city": "오키나와",
+          "country": "일본",
+          "code": "OKA"
+        },
+        {
+          "city": "나고야",
+          "country": "일본",
+          "code": "NGO"
+        },
+        {
+          "city": "기타큐슈",
+          "country": "일본",
+          "code": "KKJ"
+        },
+        {
+          "city": "구마모토",
+          "country": "일본",
+          "code": "KMJ"
+        },
+        {
+          "city": "가고시마",
+          "country": "일본",
+          "code": "KOJ"
+        },
+        {
+          "city": "오이타",
+          "country": "일본",
+          "code": "OIT"
+        },
+        {
+          "city": "나가사키",
+          "country": "일본",
+          "code": "NGS"
+        },
+        {
+          "city": "사가",
+          "country": "일본",
+          "code": "HSG"
+        },
+        {
+          "city": "미야자키",
+          "country": "일본",
+          "code": "KMI"
+        },
+        {
+          "city": "히로시마",
+          "country": "일본",
+          "code": "HIJ"
+        },
+        {
+          "city": "오카야마",
+          "country": "일본",
+          "code": "OKJ"
+        },
+        {
+          "city": "다카마쓰",
+          "country": "일본",
+          "code": "TAK"
+        },
+        {
+          "city": "마쓰야마",
+          "country": "일본",
+          "code": "MYJ"
+        },
+        {
+          "city": "요나고",
+          "country": "일본",
+          "code": "YGJ"
+        },
+        {
+          "city": "고마쓰",
+          "country": "일본",
+          "code": "KMQ"
+        },
+        {
+          "city": "도야마",
+          "country": "일본",
+          "code": "TOY"
+        },
+        {
+          "city": "니가타",
+          "country": "일본",
+          "code": "KIJ"
+        },
+        {
+          "city": "시즈오카",
+          "country": "일본",
+          "code": "FSZ"
+        },
+        {
+          "city": "센다이",
+          "country": "일본",
+          "code": "SDJ"
+        },
+        {
+          "city": "아오모리",
+          "country": "일본",
+          "code": "AOJ"
+        },
+        {
+          "city": "아사히카와",
+          "country": "일본",
+          "code": "AKJ"
+        },
+        {
+          "city": "하코다테",
+          "country": "일본",
+          "code": "HKD"
+        },
+        {
+          "city": "이시가키",
+          "country": "일본",
+          "code": "ISG"
+        },
+        {
+          "city": "미야코지마",
+          "country": "일본",
+          "code": "MMY"
+        }
+      ]
+    },
+    {
+      "name": "중화권",
+      "cities": [
+        {
+          "city": "홍콩",
+          "country": "홍콩",
+          "code": "HKG"
+        },
+        {
+          "city": "마카오",
+          "country": "마카오",
+          "code": "MFM"
+        },
+        {
+          "city": "타이페이",
+          "country": "대만",
+          "code": "TPE"
+        },
+        {
+          "city": "가오슝",
+          "country": "대만",
+          "code": "KHH"
+        },
+        {
+          "city": "타이중",
+          "country": "대만",
+          "code": "RMQ"
+        },
+        {
+          "city": "베이징",
+          "country": "중국",
+          "code": "PEK·PKX"
+        },
+        {
+          "city": "상하이",
+          "country": "중국",
+          "code": "PVG"
+        },
+        {
+          "city": "칭다오",
+          "country": "중국",
+          "code": "TAO"
+        },
+        {
+          "city": "광저우",
+          "country": "중국",
+          "code": "CAN"
+        },
+        {
+          "city": "선전",
+          "country": "중국",
+          "code": "SZX"
+        },
+        {
+          "city": "다롄",
+          "country": "중국",
+          "code": "DLC"
+        },
+        {
+          "city": "선양",
+          "country": "중국",
+          "code": "SHE"
+        },
+        {
+          "city": "톈진",
+          "country": "중국",
+          "code": "TSN"
+        },
+        {
+          "city": "옌지",
+          "country": "중국",
+          "code": "YNJ"
+        },
+        {
+          "city": "창춘",
+          "country": "중국",
+          "code": "CGQ"
+        },
+        {
+          "city": "하얼빈",
+          "country": "중국",
+          "code": "HRB"
+        },
+        {
+          "city": "옌타이",
+          "country": "중국",
+          "code": "YNT"
+        },
+        {
+          "city": "웨이하이",
+          "country": "중국",
+          "code": "WEH"
+        },
+        {
+          "city": "난징",
+          "country": "중국",
+          "code": "NKG"
+        },
+        {
+          "city": "항저우",
+          "country": "중국",
+          "code": "HGH"
+        },
+        {
+          "city": "시안",
+          "country": "중국",
+          "code": "XIY"
+        },
+        {
+          "city": "청두",
+          "country": "중국",
+          "code": "TFU"
+        },
+        {
+          "city": "충칭",
+          "country": "중국",
+          "code": "CKG"
+        },
+        {
+          "city": "우한",
+          "country": "중국",
+          "code": "WUH"
+        },
+        {
+          "city": "창사",
+          "country": "중국",
+          "code": "CSX"
+        },
+        {
+          "city": "샤먼",
+          "country": "중국",
+          "code": "XMN"
+        },
+        {
+          "city": "장자제",
+          "country": "중국",
+          "code": "DYG"
+        },
+        {
+          "city": "쿤밍",
+          "country": "중국",
+          "code": "KMG"
+        },
+        {
+          "city": "정저우",
+          "country": "중국",
+          "code": "CGO"
+        },
+        {
+          "city": "지난",
+          "country": "중국",
+          "code": "TNA"
+        },
+        {
+          "city": "하이커우",
+          "country": "중국",
+          "code": "HAK"
+        },
+        {
+          "city": "싼야",
+          "country": "중국",
+          "code": "SYX"
+        }
+      ]
+    },
+    {
+      "name": "동남아",
+      "cities": [
+        {
+          "city": "방콕",
+          "country": "태국",
+          "code": "BKK"
+        },
+        {
+          "city": "푸켓",
+          "country": "태국",
+          "code": "HKT"
+        },
+        {
+          "city": "치앙마이",
+          "country": "태국",
+          "code": "CNX"
+        },
+        {
+          "city": "다낭",
+          "country": "베트남",
+          "code": "DAD"
+        },
+        {
+          "city": "나트랑",
+          "country": "베트남",
+          "code": "CXR"
+        },
+        {
+          "city": "하노이",
+          "country": "베트남",
+          "code": "HAN"
+        },
+        {
+          "city": "호치민",
+          "country": "베트남",
+          "code": "SGN"
+        },
+        {
+          "city": "푸꾸옥",
+          "country": "베트남",
+          "code": "PQC"
+        },
+        {
+          "city": "달랏",
+          "country": "베트남",
+          "code": "DLI"
+        },
+        {
+          "city": "하이퐁",
+          "country": "베트남",
+          "code": "HPH"
+        },
+        {
+          "city": "싱가포르",
+          "country": "싱가포르",
+          "code": "SIN"
+        },
+        {
+          "city": "쿠알라룸푸르",
+          "country": "말레이시아",
+          "code": "KUL"
+        },
+        {
+          "city": "코타키나발루",
+          "country": "말레이시아",
+          "code": "BKI"
+        },
+        {
+          "city": "페낭",
+          "country": "말레이시아",
+          "code": "PEN"
+        },
+        {
+          "city": "랑카위",
+          "country": "말레이시아",
+          "code": "LGK"
+        },
+        {
+          "city": "마닐라",
+          "country": "필리핀",
+          "code": "MNL"
+        },
+        {
+          "city": "세부",
+          "country": "필리핀",
+          "code": "CEB"
+        },
+        {
+          "city": "클락",
+          "country": "필리핀",
+          "code": "CRK"
+        },
+        {
+          "city": "보라카이",
+          "country": "필리핀",
+          "code": "KLO"
+        },
+        {
+          "city": "보홀",
+          "country": "필리핀",
+          "code": "TAG"
+        },
+        {
+          "city": "발리",
+          "country": "인도네시아",
+          "code": "DPS"
+        },
+        {
+          "city": "자카르타",
+          "country": "인도네시아",
+          "code": "CGK"
+        },
+        {
+          "city": "바탐",
+          "country": "인도네시아",
+          "code": "BTH"
+        },
+        {
+          "city": "씨엠립",
+          "country": "캄보디아",
+          "code": "SAI"
+        },
+        {
+          "city": "프놈펜",
+          "country": "캄보디아",
+          "code": "PNH"
+        },
+        {
+          "city": "비엔티안",
+          "country": "라오스",
+          "code": "VTE"
+        },
+        {
+          "city": "루앙프라방",
+          "country": "라오스",
+          "code": "LPQ"
+        },
+        {
+          "city": "양곤",
+          "country": "미얀마",
+          "code": "RGN"
+        }
+      ]
+    },
+    {
+      "name": "남아시아",
+      "cities": [
+        {
+          "city": "뭄바이",
+          "country": "인도",
+          "code": "BOM"
+        },
+        {
+          "city": "델리",
+          "country": "인도",
+          "code": "DEL"
+        },
+        {
+          "city": "카트만두",
+          "country": "네팔",
+          "code": "KTM"
+        },
+        {
+          "city": "콜롬보",
+          "country": "스리랑카",
+          "code": "CMB"
+        },
+        {
+          "city": "몰디브",
+          "country": "몰디브",
+          "code": "MLE"
+        }
+      ]
+    },
+    {
+      "name": "몽골·중앙아",
+      "cities": [
+        {
+          "city": "울란바토르",
+          "country": "몽골",
+          "code": "UBN"
+        },
+        {
+          "city": "알마티",
+          "country": "카자흐스탄",
+          "code": "ALA"
+        },
+        {
+          "city": "아스타나",
+          "country": "카자흐스탄",
+          "code": "NQZ"
+        },
+        {
+          "city": "타슈켄트",
+          "country": "우즈벡",
+          "code": "TAS"
+        },
+        {
+          "city": "비슈케크",
+          "country": "키르기스",
+          "code": "FRU"
+        },
+        {
+          "city": "블라디보스토크",
+          "country": "러시아",
+          "code": "VVO"
+        }
+      ]
+    },
+    {
+      "name": "중동·아프리카",
+      "cities": [
+        {
+          "city": "두바이",
+          "country": "UAE",
+          "code": "DXB"
+        },
+        {
+          "city": "아부다비",
+          "country": "UAE",
+          "code": "AUH"
+        },
+        {
+          "city": "도하",
+          "country": "카타르",
+          "code": "DOH"
+        },
+        {
+          "city": "이스탄불",
+          "country": "튀르키예",
+          "code": "IST"
+        },
+        {
+          "city": "리야드",
+          "country": "사우디",
+          "code": "RUH"
+        },
+        {
+          "city": "텔아비브",
+          "country": "이스라엘",
+          "code": "TLV"
+        },
+        {
+          "city": "카이로",
+          "country": "이집트",
+          "code": "CAI"
+        },
+        {
+          "city": "나이로비",
+          "country": "케냐",
+          "code": "NBO"
+        },
+        {
+          "city": "아디스아바바",
+          "country": "에티오피아",
+          "code": "ADD"
+        }
+      ]
+    },
+    {
+      "name": "유럽",
+      "cities": [
+        {
+          "city": "파리",
+          "country": "프랑스",
+          "code": "CDG"
+        },
+        {
+          "city": "니스",
+          "country": "프랑스",
+          "code": "NCE"
+        },
+        {
+          "city": "런던",
+          "country": "영국",
+          "code": "LHR"
+        },
+        {
+          "city": "프랑크푸르트",
+          "country": "독일",
+          "code": "FRA"
+        },
+        {
+          "city": "뮌헨",
+          "country": "독일",
+          "code": "MUC"
+        },
+        {
+          "city": "베를린",
+          "country": "독일",
+          "code": "BER"
+        },
+        {
+          "city": "암스테르담",
+          "country": "네덜란드",
+          "code": "AMS"
+        },
+        {
+          "city": "브뤼셀",
+          "country": "벨기에",
+          "code": "BRU"
+        },
+        {
+          "city": "로마",
+          "country": "이탈리아",
+          "code": "FCO"
+        },
+        {
+          "city": "밀라노",
+          "country": "이탈리아",
+          "code": "MXP"
+        },
+        {
+          "city": "베네치아",
+          "country": "이탈리아",
+          "code": "VCE"
+        },
+        {
+          "city": "마드리드",
+          "country": "스페인",
+          "code": "MAD"
+        },
+        {
+          "city": "바르셀로나",
+          "country": "스페인",
+          "code": "BCN"
+        },
+        {
+          "city": "리스본",
+          "country": "포르투갈",
+          "code": "LIS"
+        },
+        {
+          "city": "취리히",
+          "country": "스위스",
+          "code": "ZRH"
+        },
+        {
+          "city": "빈",
+          "country": "오스트리아",
+          "code": "VIE"
+        },
+        {
+          "city": "프라하",
+          "country": "체코",
+          "code": "PRG"
+        },
+        {
+          "city": "부다페스트",
+          "country": "헝가리",
+          "code": "BUD"
+        },
+        {
+          "city": "바르샤바",
+          "country": "폴란드",
+          "code": "WAW"
+        },
+        {
+          "city": "자그레브",
+          "country": "크로아티아",
+          "code": "ZAG"
+        },
+        {
+          "city": "아테네",
+          "country": "그리스",
+          "code": "ATH"
+        },
+        {
+          "city": "헬싱키",
+          "country": "핀란드",
+          "code": "HEL"
+        },
+        {
+          "city": "코펜하겐",
+          "country": "덴마크",
+          "code": "CPH"
+        },
+        {
+          "city": "스톡홀름",
+          "country": "스웨덴",
+          "code": "ARN"
+        },
+        {
+          "city": "오슬로",
+          "country": "노르웨이",
+          "code": "OSL"
+        },
+        {
+          "city": "더블린",
+          "country": "아일랜드",
+          "code": "DUB"
+        }
+      ]
+    },
+    {
+      "name": "미주",
+      "cities": [
+        {
+          "city": "뉴욕",
+          "country": "미국",
+          "code": "JFK"
+        },
+        {
+          "city": "LA",
+          "country": "미국",
+          "code": "LAX"
+        },
+        {
+          "city": "샌프란시스코",
+          "country": "미국",
+          "code": "SFO"
+        },
+        {
+          "city": "시애틀",
+          "country": "미국",
+          "code": "SEA"
+        },
+        {
+          "city": "라스베이거스",
+          "country": "미국",
+          "code": "LAS"
+        },
+        {
+          "city": "시카고",
+          "country": "미국",
+          "code": "ORD"
+        },
+        {
+          "city": "워싱턴 D.C.",
+          "country": "미국",
+          "code": "IAD"
+        },
+        {
+          "city": "애틀랜타",
+          "country": "미국",
+          "code": "ATL"
+        },
+        {
+          "city": "보스턴",
+          "country": "미국",
+          "code": "BOS"
+        },
+        {
+          "city": "댈러스",
+          "country": "미국",
+          "code": "DFW"
+        },
+        {
+          "city": "하와이",
+          "country": "미국",
+          "code": "HNL"
+        },
+        {
+          "city": "밴쿠버",
+          "country": "캐나다",
+          "code": "YVR"
+        },
+        {
+          "city": "토론토",
+          "country": "캐나다",
+          "code": "YYZ"
+        }
+      ]
+    },
+    {
+      "name": "대양주",
+      "cities": [
+        {
+          "city": "괌",
+          "country": "미국령",
+          "code": "GUM"
+        },
+        {
+          "city": "사이판",
+          "country": "미국령",
+          "code": "SPN"
+        },
+        {
+          "city": "시드니",
+          "country": "호주",
+          "code": "SYD"
+        },
+        {
+          "city": "멜버른",
+          "country": "호주",
+          "code": "MEL"
+        },
+        {
+          "city": "브리즈번",
+          "country": "호주",
+          "code": "BNE"
+        },
+        {
+          "city": "오클랜드",
+          "country": "뉴질랜드",
+          "code": "AKL"
+        },
+        {
+          "city": "팔라우",
+          "country": "팔라우",
+          "code": "ROR"
+        },
+        {
+          "city": "피지",
+          "country": "피지",
+          "code": "NAN"
+        }
+      ]
+    }
+  ]
+}

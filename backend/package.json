@@ -1,0 +1,13 @@
+{
+  "name": "allday-agent-backend",
+  "version": "1.0.0",
+  "description": "올데이 에이전트 데모 — Mock API 서버 (Node.js, 의존성 0개)",
+  "main": "src/server.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
